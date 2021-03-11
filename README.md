@@ -1,3 +1,5 @@
+# Copy True Link
+
 This is a browser add-on that copies True Link URL as shown at the status bar.
 
 ## Description
