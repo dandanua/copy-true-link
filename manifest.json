@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Copy True Link",
+  "version": "1.0",
+
+  "description": "Copies True Link as shown at the status bar",
+
+  "icons": {
+    "48": "icons/TrueCopy.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"], 
+      "js": ["content.js"]
+    }
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+ 
+  "permissions": ["contextMenus", "clipboardWrite"]
+}
