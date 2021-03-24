@@ -15,4 +15,3 @@ https://addons.mozilla.org/en-US/firefox/addon/copy-true-link/
 ## Chrome addon page
 
 https://chrome.google.com/webstore/detail/copy-true-link/mcpokcikbbfcdogkpaebcekojhphhlfc
-
