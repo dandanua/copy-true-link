@@ -16,6 +16,3 @@ https://addons.mozilla.org/en-US/firefox/addon/copy-true-link/
 
 https://chrome.google.com/webstore/detail/copy-true-link/mcpokcikbbfcdogkpaebcekojhphhlfc
 
-## TODO
-
-It doesn't copy link if it's not faked at the status bar.
